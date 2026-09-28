@@ -74,7 +74,7 @@ challenges in these areas!
 </span>
 
 <h3>PROYECTOS ACÁDEMICOS</h3>
-<a href="https://github.com/JulietaCorvatta">PETHUB</a>
-<a href="https://github.com/JulietaCorvatta">GTA MISIONES</a>
+<a href="https://github.com/hypernat/tp_final">PETHUB</a>
+<a href="[https://github.com/JulietaCorvatta](https://github.com/JulietaCorvatta/JuegoMisionesJava)">GTA MISIONES</a>
 <a href="https://github.com/JulietaCorvatta">QA Manual Testing</a>
 
